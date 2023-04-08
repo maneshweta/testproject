@@ -2,7 +2,7 @@ package Casting;
 
 public class Explicit {
 	public static void main(String[]args) {
-		double a=129;
+		double a=229;                     //changes in explicit
 		System.out.println(a);
 		
 		int b=(int)a;
