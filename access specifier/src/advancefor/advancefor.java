@@ -10,7 +10,7 @@ public class advancefor {
 		System.out.println(numb);
 		addition +=numb;
 	}
-	System.out.println("addition="+addition);
+	System.out.println("addition="+addition);//for loop
 	
 	}
 }
